@@ -1,0 +1,405 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Lovell Dental | Preventive Dentistry | Lovell, WY",
+      "headings": [
+        "From Our Family to Yours",
+        "Quality, Caring Dentistry in Lovell",
+        "Meet Lovell's #1 Dental Team",
+        "Featured Dental Services",
+        "High-Quality Dental Implants",
+        "Compassionate Family Dentistry",
+        "In Pain? Have An Accident?",
+        "Invisalign® Clear Braces",
+        "Transformative Cosmetic Dentistry",
+        "Dental Crowns & Bridges",
+        "We Love Giving Back",
+        "Questions From Our Patients in Lovell, Answered!"
+      ],
+      "sections": [
+        "emergency bar",
+        "header",
+        "hero",
+        "trust callouts",
+        "team intro",
+        "feature callouts",
+        "services grid",
+        "service features",
+        "community",
+        "testimonials",
+        "FAQ",
+        "contact and hours",
+        "footer"
+      ]
+    },
+    {
+      "path": "/about",
+      "title": "About Lovell Dental | Meet Lovell's #1 Dental Team",
+      "headings": [
+        "Meet Lovell's #1 Dental Team",
+        "Our Approach",
+        "We Love Giving Back",
+        "What Our Patients Say"
+      ],
+      "sections": [
+        "page hero",
+        "practice intro",
+        "value callouts",
+        "community",
+        "testimonials",
+        "affiliations"
+      ]
+    },
+    {
+      "path": "/services",
+      "title": "Dental Services in Lovell, WY | Lovell Dental",
+      "headings": [
+        "Featured Dental Services",
+        "High-Quality Dental Implants",
+        "Compassionate Family Dentistry",
+        "In Pain? Have An Accident?",
+        "Invisalign® Clear Braces",
+        "Transformative Cosmetic Dentistry",
+        "Dental Crowns & Bridges"
+      ],
+      "sections": [
+        "page hero",
+        "service grid",
+        "six service features",
+        "service catalogue",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/emergency",
+      "title": "24/7 Dental Emergency Care in Lovell, WY | Lovell Dental",
+      "headings": [
+        "Lovell's Emergency Dentist",
+        "In Pain? Have An Accident?",
+        "Call Us! We're Here to Help"
+      ],
+      "sections": [
+        "page hero",
+        "emergency callout",
+        "emergency guidance",
+        "phone CTA"
+      ]
+    },
+    {
+      "path": "/new-patients",
+      "title": "New Patients | Lovell Dental",
+      "headings": [
+        "New Patients Welcome",
+        "We Make Dental Care Affordable",
+        "Insurance Plans",
+        "Financing & Membership",
+        "What to Expect"
+      ],
+      "sections": [
+        "page hero",
+        "trust cards",
+        "affordability",
+        "insurance grid",
+        "financing and membership",
+        "appointment CTA"
+      ]
+    },
+    {
+      "path": "/reviews",
+      "title": "Patient Reviews | Lovell Dental",
+      "headings": [
+        "What Our Patients Say",
+        "Share Your Experience"
+      ],
+      "sections": [
+        "page hero",
+        "testimonial carousel",
+        "review links"
+      ]
+    },
+    {
+      "path": "/faqs",
+      "title": "Frequently Asked Questions | Lovell Dental",
+      "headings": [
+        "Questions From Our Patients in Lovell, Answered!",
+        "Have Questions? Get Answers."
+      ],
+      "sections": [
+        "page hero",
+        "FAQ accordion",
+        "contact panel"
+      ]
+    },
+    {
+      "path": "/community",
+      "title": "Community Involvement | Lovell Dental",
+      "headings": [
+        "We Love Giving Back",
+        "Get Involved With Us"
+      ],
+      "sections": [
+        "page hero",
+        "community story",
+        "photo gallery",
+        "CTA"
+      ]
+    },
+    {
+      "path": "/contact",
+      "title": "Contact Lovell Dental | Lovell, WY",
+      "headings": [
+        "Contact Lovell Dental",
+        "Visit Us",
+        "Office Hours",
+        "Connect With Us",
+        "Appointment Request"
+      ],
+      "sections": [
+        "page hero",
+        "contact cards",
+        "hours",
+        "map and social links",
+        "appointment form"
+      ]
+    }
+  ],
+  "facts": {
+    "business_name": [
+      "Lovell Dental"
+    ],
+    "phone": [
+      "(307) 548-7654"
+    ],
+    "emergency_phone": [
+      "(307) 271-5910"
+    ],
+    "address": [
+      "240 E Main St",
+      "Lovell, WY 82431"
+    ],
+    "hours": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "7:00 am - 3:00 pm"
+    ],
+    "dentist": [
+      "Dr. Anderson"
+    ],
+    "patients": [
+      "Jennifer T.",
+      "Anisha F.",
+      "Stacy S."
+    ],
+    "emergency": [
+      "24/7",
+      "same-day appointments"
+    ],
+    "insurance": [
+      "in-network provider with most insurances"
+    ],
+    "financing": [
+      "affordable monthly payment plans"
+    ],
+    "medicaid": [
+      "Wyoming Medicaid"
+    ],
+    "membership": [
+      "Lovell Dental Membership Plan"
+    ],
+    "affiliations": [
+      "American Dental Association",
+      "Invisalign Provider",
+      "Wyoming Dental Association",
+      "White Cap Institute",
+      "3M ESPE"
+    ],
+    "cost": [
+      "$200 and $350"
+    ],
+    "forms": [
+      "Download Our Forms"
+    ],
+    "copyright": [
+      "Copyright © 2018 Lovell Dental"
+    ]
+  },
+  "navigation": {
+    "header": [
+      "/",
+      "/about",
+      "/services",
+      "/emergency",
+      "/new-patients",
+      "/reviews",
+      "/faqs",
+      "/community",
+      "/contact"
+    ],
+    "footer": [
+      "/",
+      "/about",
+      "/services",
+      "/emergency",
+      "/new-patients",
+      "/reviews",
+      "/faqs",
+      "/community",
+      "/contact"
+    ]
+  },
+  "assets": [
+    {
+      "src": "/assets/images/affil-1.jpg",
+      "type": "image",
+      "bytes": 2911
+    },
+    {
+      "src": "/assets/images/affil-2.jpg",
+      "type": "image",
+      "bytes": 4404
+    },
+    {
+      "src": "/assets/images/affil-3.jpg",
+      "type": "image",
+      "bytes": 4926
+    },
+    {
+      "src": "/assets/images/affil-4.jpg",
+      "type": "image",
+      "bytes": 8188
+    },
+    {
+      "src": "/assets/images/affil-5.jpg",
+      "type": "image",
+      "bytes": 4830
+    },
+    {
+      "src": "/assets/images/callouts-1.jpg",
+      "type": "image",
+      "bytes": 9199
+    },
+    {
+      "src": "/assets/images/callouts-2.jpg",
+      "type": "image",
+      "bytes": 10282
+    },
+    {
+      "src": "/assets/images/callouts-3.jpg",
+      "type": "image",
+      "bytes": 19818
+    },
+    {
+      "src": "/assets/images/callouts-4.jpg",
+      "type": "image",
+      "bytes": 14626
+    },
+    {
+      "src": "/assets/images/callouts-5.jpg",
+      "type": "image",
+      "bytes": 13324
+    },
+    {
+      "src": "/assets/images/callouts-6.jpg",
+      "type": "image",
+      "bytes": 9178
+    },
+    {
+      "src": "/assets/images/favicon.png",
+      "type": "image",
+      "bytes": 3574
+    },
+    {
+      "src": "/assets/images/footer-logo.jpg",
+      "type": "image",
+      "bytes": 8027
+    },
+    {
+      "src": "/assets/images/header-logo.png",
+      "type": "image",
+      "bytes": 8769
+    },
+    {
+      "src": "/assets/images/index-banner.jpg",
+      "type": "image",
+      "bytes": 283488
+    },
+    {
+      "src": "/assets/images/index-community-1.jpg",
+      "type": "image",
+      "bytes": 23390
+    },
+    {
+      "src": "/assets/images/index-community-2.jpg",
+      "type": "image",
+      "bytes": 15703
+    },
+    {
+      "src": "/assets/images/index-community-3.jpg",
+      "type": "image",
+      "bytes": 20486
+    },
+    {
+      "src": "/assets/images/index-community-4.jpg",
+      "type": "image",
+      "bytes": 20791
+    },
+    {
+      "src": "/assets/images/index-community-5.jpg",
+      "type": "image",
+      "bytes": 19761
+    },
+    {
+      "src": "/assets/images/index-community-6.jpg",
+      "type": "image",
+      "bytes": 16358
+    },
+    {
+      "src": "/assets/images/index-community-7.jpg",
+      "type": "image",
+      "bytes": 16734
+    },
+    {
+      "src": "/assets/images/index-community-8.jpg",
+      "type": "image",
+      "bytes": 14392
+    },
+    {
+      "src": "/assets/images/index-meet-2a.jpg",
+      "type": "image",
+      "bytes": 194692
+    },
+    {
+      "src": "/assets/images/services-1.jpg",
+      "type": "image",
+      "bytes": 77778
+    },
+    {
+      "src": "/assets/images/services-2.jpg",
+      "type": "image",
+      "bytes": 73626
+    },
+    {
+      "src": "/assets/images/services-3.jpg",
+      "type": "image",
+      "bytes": 26481
+    },
+    {
+      "src": "/assets/images/services-4.jpg",
+      "type": "image",
+      "bytes": 52836
+    },
+    {
+      "src": "/assets/images/services-5.jpg",
+      "type": "image",
+      "bytes": 94091
+    },
+    {
+      "src": "/assets/images/services-6.jpg",
+      "type": "image",
+      "bytes": 97050
+    }
+  ]
+}
